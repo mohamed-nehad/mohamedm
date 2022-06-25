@@ -1,0 +1,264 @@
+.logo-r{
+    width: 130px;
+    margin-left: 80%;
+    margin-top: 1%;
+}
+.logo-a{
+    width: 85px;
+    margin-bottom: 5px;
+}
+.top{
+    margin-left: 70%;
+    margin-top: -25px;
+}
+.sign-up{
+    margin-top: 91px;
+    padding-right: 12%;
+}
+.hh{
+    padding-left: 20%;
+    font-size: 25px;
+    margin-top: 50px;
+}
+.gg{
+    border-left: 0;
+    border-right: 1px solid #000000;
+    border-radius: 0 5px 5px 0;
+}
+.user{
+    border: 1px solid #e5e5e5 !important;
+    width: 100%;
+    padding: 10px !important;
+    margin: 0 !important;
+    outline: none !important;
+}
+.username{
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.link{
+    background-color: #fff;
+    height: 60px;
+    width: auto;
+    line-height: 60px;
+    vertical-align: middle;
+    padding: 0 0 0 10px;
+    border-bottom: 1px solid rgba(229, 229, 229, 0.5);
+    background-repeat: no-repeat;
+    background-position: 9px 9px;
+    display: block;
+    text-decoration: none;
+    color: #909090;
+    font-weight: bold;
+    position: relative;
+    -webkit-transition: background-color .4s ease-out, color .4s ease-out;
+    -moz-transition: background-color .4s ease-out, color .4s ease-out;
+    -o-transition: background-color .4s ease-out, color .4s ease-out;
+    transition: background-color .4s ease-out, color .4s ease-out;
+}
+.back{
+    font-family: "Droid Arabic Kufi", "Droid Sans", Tahoma, Arial, sans-serif !important;
+    margin: 0;
+    background: #ebeaea75;
+    font-size: 12px !important;
+    position: relative;
+    min-height: 100%;
+    height: auto !important;
+}
+.userpass{
+    margin-bottom: 24px;
+}
+.move{
+    background-color: white;
+    direction: rtl;
+    padding-left: 11%;
+}
+.button{
+    color: #fff !important;
+    text-shadow: none !important;
+    border-radius: 0 !important;
+    background-image: none !important;
+    background-color: #00ab67 !important;
+    height: 33px !important;
+    line-height: 13px;
+    border: none !important;
+    width: 109% !important;
+    font-size: 16px !important;
+    font-family: 'Droid Arabic Kufi', Arial !important;
+    margin-bottom: 20px;
+}
+.dd{
+    direction: rtl;
+}
+.tt{
+    font-size: 20px;
+    font-family: inherit;
+    font-weight: inherit;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+    font-size: 20px;
+    font-family: inherit;
+    font-weight: inherit;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-style: normal;
+    background-color: white;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+    margin-right: 24%;
+    margin-left: 4%;
+    margin-top: 8%;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+}
+.border{
+    float: right;
+    width: 22%;
+    margin-right: 0%;
+    padding-right: 0%;
+}
+.ll{
+    font-size: 10px;
+    margin-top: 8%;
+}
+.kk{
+    margin-right: 2%;
+    display:inline !important;
+    float:right;
+    padding-left: 10%;
+}
+.ff{
+    margin-left: -35%;
+    direction: ltr;
+    margin-top: -3%;
+}
+.bottom{
+    width: auto;
+    height: 155px;
+    background-color: white;
+    margin-top: 14%;
+}
+.right{
+    margin-top: 9px !important;
+    color: #a7a7a7;
+    font-weight: 500;
+    font-size: 14px;
+    float: right;
+    margin-left: -15%;
+    padding-left: 0%;
+    width: 19%;
+    direction: rtl;
+    margin-right: 3%;
+}
+.rwabt{
+    color: #676767;
+    font-size: 18px;
+    margin-top: 9px;
+    margin-bottom: 10px;
+    font-family: 'Droid Arabic Kufi', Arial !important;
+}
+.center{
+    direction: rtl;
+    margin-right: 25%;
+    padding-top: 13px;
+}
+.linkat{
+    color: #8b8b8b;
+    display: block;
+    margin-bottom: 6px;
+    font-size: 13px;
+    font-family: 'Droid Arabic Kufi', Arial !important;
+}
+.link1{
+    
+}
+.link2{
+    margin-right: 30%;
+    margin-top: -5%;
+}
+.link3{
+    margin-right: 60%;
+    margin-top: -5%;
+}
+.bottom2{
+    width: 100px;
+    height: 125px;
+    background-color: #00ab67;
+    margin-left: 90px;
+    margin-top: -103px;
+    border-radius: 0px 0px 22px 22px;
+}
+.rkm{
+    padding-top: 79%;
+    height: 125px;
+    padding-left: 8%;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+.en{
+    background-color: #c3c3c33d;
+    width: 100px;
+    height: 100px;
+    margin-top: -19%;
+    border: solid 1px #56545461;
+    border-bottom: solid 1px #10b910d6;
+    border-radius: 15px;
+    margin-left: -32%;
+}
+.dalel{
+    background-color: #c3c3c33d;
+    width: 100px;
+    height: 100px;
+    margin-top: -23%;
+    border: solid 1px #56545461;
+    border-bottom: solid 1px #10b910d6;
+    border-radius: 15px;
+}
+.top1{
+    height: 135px;
+    background-color: #c3c3c33d;
+}
+.en1{
+    margin-top: 17%;
+    margin-left: 28%;
+}
+.dalel1{
+    margin-top: 17%;
+    margin-left: 8%;
+}
+.circel{
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 96px;
+    margin-left: 25%;
+    margin-top: 13%;
+}
